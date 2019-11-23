@@ -19,6 +19,7 @@ body {
 
   .calendar {
   font-family: 'Montserrat', sans-serif;
+  border: .1rem solid green;
   }
 
   /* Reset Select */
